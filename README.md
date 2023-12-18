@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Canvas" />
+  <img src="https://www.historyvshollywood.com/reelfaces/zodiac/social.jpg" alt="Zodiac Banner" />
 
   &#xa0;
 
