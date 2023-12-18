@@ -17,11 +17,11 @@
 
   <img alt="License" src="https://img.shields.io/github/license/Raxuis/zodiac-canvas?color=56BEB8">
 
+  <img alt="Github stars" src="https://img.shields.io/github/stars/Raxuis/zodiac-canvas?color=56BEB8" />
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/Raxuis/canvas?color=56BEB8" /> -->
 
   <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/Raxuis/canvas?color=56BEB8" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/Raxuis/canvas?color=56BEB8" /> -->
 </p>
 
 <!-- Status -->
