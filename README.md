@@ -6,7 +6,7 @@
   <!-- <a href="https://canvas.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">Canvas</h1>
+<h1 align="center">ZODIAC</h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/Raxuis/zodiac-canvas?color=56BEB8">
