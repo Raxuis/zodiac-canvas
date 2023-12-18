@@ -2,38 +2,6 @@ let myCanvas = document.getElementById('myCanvas');
 
 let ctx = myCanvas.getContext("2d");
 
-/* // TRAIT HORIZONTAL ROUGE
-for (let i = 0; i < 600; i += 10) {
-    ctx.beginPath();
-    ctx.moveTo(0, i);
-    ctx.strokeStyle = 'red';
-    ctx.lineTo(600, i);
-    ctx.stroke();
-}
-// TRAIT VERTICAL ROUGE
-for (let i = 0; i < 600; i += 10) {
-    ctx.beginPath();
-    ctx.moveTo(i, 0);
-    ctx.strokeStyle = 'red';
-    ctx.lineTo(i, 600);
-    ctx.stroke();
-}
-// TRAIT VERTICAL VERT
-for (let i = 0; i < 600; i += 100) {
-    ctx.beginPath();
-    ctx.moveTo(i, 0);
-    ctx.strokeStyle = 'green';
-    ctx.lineTo(i, 600);
-    ctx.stroke();
-}
-// TRAIT HORIZONTAL vert
-for (let i = 0; i < 600; i += 100) {
-    ctx.beginPath();
-    ctx.moveTo(0, i);
-    ctx.strokeStyle = 'green';
-    ctx.lineTo(600, i);
-    ctx.stroke();
-} */
 ctx.shadowColor = 'black'; // couleur ombrage
 ctx.shadowOffsetX = -5;
 ctx.shadowOffsetY = -5;
